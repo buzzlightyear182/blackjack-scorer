@@ -12,9 +12,9 @@ If there is no score less than or euqal to 21 return the smallest score more tha
 Scoring rules: In Blackjack number cards count as their face value (2 through 10). Jack, Queen and King count as 10. 
 An Ace can be counted as either 1 or 11.
 
-Examples:
-scoreHand(["A"]); //=> 11
-scoreHand(["A", "J"]); //=> 21
-scoreHand(["A", "10", "A"]); //=> 12
-scoreHand(["5", "3", "7"]); //=> 15
-scoreHand(["5", "4", "3", "2", "A", "K"]); //=> 25
+Examples:<br>
+scoreHand(["A"]); //=> 11<br>
+scoreHand(["A", "J"]); //=> 21<br>
+scoreHand(["A", "10", "A"]); //=> 12<br>
+scoreHand(["5", "3", "7"]); //=> 15<br>
+scoreHand(["5", "4", "3", "2", "A", "K"]); //=> 25<br>
